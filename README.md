@@ -1,4 +1,4 @@
-Project 3: Forest Scene
+Project 3: "Forest Scene"
 
 Brief outline of what it does:
 
