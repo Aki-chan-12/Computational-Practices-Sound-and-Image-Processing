@@ -1,6 +1,9 @@
 Project 1: Generative Vector Abstraction
 
-To view the video clip, please press
+To view a video clip, please go to Vector_abstraction.mov page. On the left side there is note: video clip of the project. 
+When you open it, there will be options to press: 
+1. download raw file 
+2. 2. view raw file 
 
 Brief outline of what it does:
 The code combines image-based patterns, artistic shapes, and interactive bouncing balls to create an engaging and visually captivating display. It offers a blend of artistic expression and dynamic motion, making it an intriguing visual experience.
