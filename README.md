@@ -82,5 +82,7 @@ Explanation on how to run a code
 In my code I have 2 tabs:
 
 ❏ Abstract_art_ﬁnal_main_java 
+
 ❏ Ball
+
 So to run a code you need to open 2 tabs and add each code into different tab.
