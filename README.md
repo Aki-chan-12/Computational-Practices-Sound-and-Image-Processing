@@ -1,5 +1,7 @@
 Project 1: Generative Vector Abstraction
 
+To view the video clip, please press
+
 Brief outline of what it does:
 The code combines image-based patterns, artistic shapes, and interactive bouncing balls to create an engaging and visually captivating display. It offers a blend of artistic expression and dynamic motion, making it an intriguing visual experience.
 
