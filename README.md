@@ -20,6 +20,7 @@ The code combines image-based patterns, artistic shapes, and interactive bouncin
 - When a ball reaches the screen's boundaries, it bounces back, creating an interactive effect.
 
 
+
 Brief outline of the code:
 
 This project is written in the Processing programming language and creates a visual display with various elements.
@@ -42,6 +43,7 @@ This project is written in the Processing programming language and creates a vis
 - Finally, it displays each `Ball` object on the screen.
 
 
+
 Notes inspiration about artworks:
 
 I have created a sketch that produces a colourful image resembling a speciﬁc 20th-century abstract artists.
@@ -59,11 +61,13 @@ Artists and their works:
 ![gerchard_richter](https://user-images.githubusercontent.com/107992163/175054312-f73a22d2-367d-43fd-a00c-d7b8b6a10393.jpg)
 
 
+
 Notes on the design decisions:
 
 Originally, I had planned to incorporate only Wassily Kandinsky's "Homage to Grohmann" into my code. However, I was truly inspired by the colour palette in Gerhard Richter's "Abstract Painting 599." It left such a profound impression on me that I couldn't resist merging the two artworks in my project. I envisioned using Gerhard Richter's "Abstract Painting 599" as the background, allowing the geometric shapes to boldly emerge against the vibrant canvas and creating an intriguing exotic composition. Imagine the interplay of colours and forms, producing mesmerising visual effects that transport us into the realm of abstract art.
 
 My goal was to capture the essence and style of both artists, merging their works into a unique and awe-inspiring piece of art that will captivate and delight viewers. Additionally, I aimed to infuse the ﬁnal creation with a sense of depth and emotion, inviting observers to explore the depths of artistic expression.
+
 
 
 Explanation to the viewers on how to run the art project:
@@ -77,7 +81,8 @@ You will notice a variety of shapes elegantly dancing across the screen. Triangl
 This project is a fusion of art and technology, showcasing the power of creativity and programming. It invites you to immerse yourself in a world of visual delight and explore the intricate interplay between colors, shapes, and motion.
 
 
-Explanation on how to run a code
+
+Explanation on how to run a code:
 
 In my code I have 2 tabs:
 
