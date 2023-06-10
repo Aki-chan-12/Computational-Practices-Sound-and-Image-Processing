@@ -1,5 +1,7 @@
 Project 3: "Forest Scene"
 
+This video clip provided as a file in here is a cut version, if you want to see the full version, please check the link at the end of README.md
+
 Brief outline of what it does:
 
 This project is a simulation of falling leaves in a forest. It creates a visual representation of leaves falling from the trees and being inﬂuenced by wind.
