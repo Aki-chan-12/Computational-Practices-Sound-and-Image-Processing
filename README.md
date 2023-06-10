@@ -66,3 +66,6 @@ What can you change in the code?
 2. If you wish to adjust the size of the canvas, you have the ﬂexibility to do so. Feel free to explore and experiment with different parameters to create unique effects.
 
 3. While the project is designed to simulate falling leaves, you can use your creativity to add new elements or modify existing ones.
+
+Here is a link with a video clip, incase if you are not going to be able to view it >>>
+https://ual.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=cbc9f735-c334-4c2c-9ff3-b01d017637ac 
