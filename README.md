@@ -96,3 +96,6 @@ In my code I have 2 tabs:
 ❏ Ball
 
 So to run a code you need to open 2 tabs and add each code into different tab.
+
+Here is a link with a video clip, incase if you are not going to be able to view it >>>
+https://ual.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=fe49aac8-fa81-47da-a1f7-b01d016a0d22 
